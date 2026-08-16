@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clash 与公司 VPN 共存"
+  short_description: "诊断并修复 macOS 上 Clash TUN 与公司 VPN 的路由冲突"
+  default_prompt: "Use $clash-corporate-vpn-coexistence to diagnose and safely configure Clash TUN alongside my corporate VPN on this Mac."
